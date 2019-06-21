@@ -1,8 +1,8 @@
-title: Mr.Brown
-description: Mr.Brown is a responsive jekyll theme
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Shadow
+description: Better late than Never!
+url: "http://XbShadow.github.io/index.html" # the base hostname & protocol for your site, e.g. http://XbShadow.github.io/index.html
 permalink: ':title/'
-baseurl: "/mr-brown" # the subpath of your site, e.g. /blog
+baseurl: "/Shadow" # the subpath of your site, e.g. /blog
 
 # Comments
 discus_identifier: mr-brown
